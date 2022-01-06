@@ -71,4 +71,15 @@ font-weight: 900px;
         padding-left: 10%;
         padding-bottom: 5%;
     }
-    
+    .image-two{
+        width: 60%;
+        padding-left: 20%;
+        padding-bottom: 5%;
+        padding-top: 10%; 
+    }
+    .image-three{
+        width: 60%;
+        padding-left: 20%;
+        padding-bottom: 5%;
+        padding-top: 10%
+    }
