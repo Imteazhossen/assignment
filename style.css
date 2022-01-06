@@ -83,3 +83,30 @@ font-weight: 900px;
         padding-bottom: 5%;
         padding-top: 10%
     }
+    .image-four{
+        width: 65%;
+        padding-left: 10%;
+        padding-bottom: 5%;
+        padding-top: 30%
+    }
+    .header-two{
+        font-size: 70px;
+       text-align: center;
+    }
+    .new{
+        color: rgb(162, 107, 184);
+    }
+    .header-three{
+        font-size: 30px;
+        color: firebrick;
+        background-color: darkslategrey;
+        background-size: 100%;
+        text-align: center;
+    }
+   .first-footer{
+         text-align: center;
+    }
+   .background-all{
+       background-color: darkslategrey;
+   }
+    
