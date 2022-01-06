@@ -1,0 +1,74 @@
+h1{
+    font-size: 40px;
+}
+.first{
+    color: rgb(74, 74, 221);
+}
+.image-one{
+    width: 60%;
+    padding-left: 20%;
+    padding-bottom: 5%;
+} 
+.button-one{
+background-image: linear-gradient( rgb(25, 0, 255) ,rgb(0, 204, 255) );
+text-decoration: none;
+padding: 10px 40px;
+border-radius: 5px;
+font-weight: 900px;
+}
+ .half-weidth{
+     width: 50%;
+     padding: 8%;
+ }
+ .header-one{
+     font-size: 70px;
+    text-align: center;
+ }
+ body{
+    font-family: 'Noto Serif', serif;
+    font-family: 'Poppins', sans-serif;
+ }
+.span-colour{
+    color: palegreen;
+}
+.margin{
+    border-left: salmon;    
+}
+.ten{
+    width: 40%;
+    margin-left: 5%;
+    margin-right: 5%;
+    padding-left: 23px;
+    padding-right: 20px;
+    border-radius: 15px;
+    background-color: rgb(189, 252, 220);
+}
+.nine{
+    
+        width: 40%;
+        margin-left: 5%;
+        margin-right: 5%;
+        padding-left: 23px;
+        padding-right: 20px;
+        border-radius: 15px;
+        background-color: rgb(252, 195, 189);
+    }
+.eight{
+    
+        width: 40%;
+        margin-left: 5%;
+        margin-right: 5%;
+        padding-left: 23px;
+        padding-right: 20px;
+        border-radius: 15px;
+        background-color: rgb(213, 189, 252);
+    }
+    section{
+        display: flex;
+    }
+    .image-two{
+        width: 50%;
+        padding-left: 10%;
+        padding-bottom: 5%;
+    }
+    
